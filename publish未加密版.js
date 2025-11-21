@@ -33,24 +33,18 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'sqhub3678@gmail.com'
+    'hlqbj2025@gmail.com'
 ];
 var newestUrls = [
     'https://db1.jgrikdk.xyz',    
     'https://db1.tmuddod.xyz',
 ];
 var otherUrls = [
-    'https://gitlab.com/91dizhi/go',
-    'https://dizhi8.pages.dev',
-    'https://dizhi22.github.io',
-    'https://bitbucket.org/91dizhi/go',
-    'https://www.ebay.com/usr/weia-31'
+    'https://hlqbj1.github.io',
 ];
 var foreverUrls = [
-	'https://91porna.com',
-	'https://91porn.fun',
-	'https://91pornvideo.com',
-    'https://91pornforum.com'
+	'https://hlqbj.com',
+	'https://hlqbj.net',
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -110,7 +104,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91视频'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问黑料情报局'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
