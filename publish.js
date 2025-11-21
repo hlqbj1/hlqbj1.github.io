@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'sqhub3678@gmail.com'
+    'hlqbj2025@gmail.com'
 ];
 
 var urls=[];
@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".iwsndnr.xyz");   
         urls.push(".eogixfo.xyz");              
                                                                                                                                                       
-var JumpPage="https://91wang75.com";
+var JumpPage="https://hlqbj.com";
 
 var newestUrls = [];
 
@@ -60,17 +60,12 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-    'https://gitlab.com/dizhi8',
-    'https://dizhi8.pages.dev',
-    'https://dizhi33.github.io',
-    'https://dizhi8.netlify.app'
+    'https://hlqbj1.github.io',
 ];
 var foreverUrls = [
-	'https://91porna.com',
+	'https://hlqbj.com',
 	JumpPage,
-	'https://91porn.fun',
-	'https://91pornvideo.com',
-    'https://91pornforum.com'
+	'https://hlqbj.net',
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -164,3 +159,4 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
