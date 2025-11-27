@@ -42,7 +42,10 @@ var urls=[];
         urls.push(".iwsndnr.xyz");   
         urls.push(".eogixfo.xyz");              
                                                                                                                                                       
-var JumpPage="https://hlqbj.com";
+var foreverUrls = Array.from(new Set([
+	'https://hlqbj.com',
+	JumpPage,
+	'https://hlqbj.net'
 
 var newestUrls = [];
 
@@ -68,7 +71,7 @@ var foreverUrls = [
 	'https://hlqbj.net',
 ];
 var notices = [
-    '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
+    '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safari浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
     '* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。',
 	'* 大陆地区用户我们强烈建议您截图收藏当前页面。'
@@ -140,7 +143,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91视频'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问黑料情报局'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
@@ -159,4 +162,5 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
