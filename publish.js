@@ -36,10 +36,8 @@ function getRandomString() {
 var emails = ['hlqbj2025@gmail.com'];
 
 var urls = [];
-urls.push(".ojhdquyn.xyz");
-urls.push(".nmwcauk.xyz");
-urls.push(".iwsndnr.xyz");
-urls.push(".eogixfo.xyz");
+urls.push(".qzfxuib.cc");
+urls.push(".rbfbars.com");
 
 // ★ 必须先定义 JumpPage
 var JumpPage = "https://hlqbj.com";
@@ -167,3 +165,4 @@ window.onload = function () {
     });
     mainElem.appendChild(noticeFieldElem);
 }
+
