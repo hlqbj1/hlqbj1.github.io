@@ -36,7 +36,7 @@ function getRandomString() {
 var emails = ['hlqbj2025@gmail.com'];
 
 var urls = [];
-urls.push(".qzfxuib.cc");
+urls.push(".bnqomxv.xyz");
 urls.push(".rbfbars.com");
 
 // ★ 必须先定义 JumpPage
@@ -165,4 +165,5 @@ window.onload = function () {
     });
     mainElem.appendChild(noticeFieldElem);
 }
+
 
