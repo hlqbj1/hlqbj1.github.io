@@ -36,7 +36,7 @@ function getRandomString() {
 var emails = ['hlqbj2025@gmail.com'];
 
 var urls = [];
-urls.push("lepxtepc.cc");
+urls.push("blnuiwbi.com");
 
 // ★ 必须先定义 JumpPage
 var JumpPage = "https://hlqbj.com";
